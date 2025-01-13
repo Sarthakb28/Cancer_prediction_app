@@ -2,7 +2,7 @@ attr==0.3.2
 colorama==0.4.6
 ConfigParser==7.1.0
 cryptography==42.0.5
-Cython==3.0.11  # Ensures Pyjnius can be built
+Cython==3.0.11
 dl==0.1.0
 docutils==0.18.1
 filelock==3.16.1
@@ -18,7 +18,7 @@ Pillow==11.1.0
 plotly==5.22.0
 protobuf==3.20.3
 pyOpenSSL==25.0.0
-pywin32==306  
+pywin32==305.1  
 redis==5.2.1
 scikit_learn==1.4.2
 Sphinx==8.1.3
