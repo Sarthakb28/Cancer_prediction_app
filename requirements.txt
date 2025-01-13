@@ -4,7 +4,7 @@ ConfigParser==7.1.0
 cryptography==42.0.5
 Cython==3.0.11
 dl==0.1.0
-docutils==0.18.1
+docutils>=0.20
 filelock==3.16.1
 HTMLParser==0.0.2
 ipython==8.26.0
